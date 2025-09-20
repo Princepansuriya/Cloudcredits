@@ -20,3 +20,5 @@ Steps Covered :
 15. Manage Costs – Stop or terminate instance when not in use
 
 <img width="1842" height="959" alt="image" src="https://github.com/user-attachments/assets/19b21ced-456d-458c-b5f7-0c904916f572" />
+<img width="1314" height="783" alt="image" src="https://github.com/user-attachments/assets/7a17cce2-2a3a-460a-8041-86ac4a4a30ef" />
+![Uploading image.png…]()
